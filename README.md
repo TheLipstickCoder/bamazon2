@@ -2,6 +2,8 @@
 
 This Node.js app will work with a SQL database to process orders from customer while alerting customers to items that are in stock. 
 
+If the app was working, this is how the client would access it:
+
 Prior to accessing the store, the client should run "npm install" to access all of the needed packages.
 
 The client will access the store through the following command:
